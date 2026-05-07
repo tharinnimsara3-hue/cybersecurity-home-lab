@@ -18,8 +18,13 @@ This home lab was created to practice cybersecurity concepts including network s
 ## Tasks Performed
 
 ### Networking
-- Identified IP addresses
-- Tested connectivity using ping
+- IP addressing
+- MAC addressing
+- ARP
+- Routing
+- DNS
+- Gateway
+- Subnetting
 
 ### Scanning
 - Used Nmap to scan open ports
