@@ -52,3 +52,14 @@ Activities
 Key Learning
 SSH enables secure remote administration and linux permissions control user access
 
+## Linux Logs and Monitoring
+
+### Activities
+- Observed authentication logs
+- Detected failed logins
+- Viewed active users
+- Identified listening services
+
+### key learning
+logs help analysts investigate authentication and systen behavior
+
