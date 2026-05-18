@@ -60,6 +60,16 @@ SSH enables secure remote administration and linux permissions control user acce
 - Viewed active users
 - Identified listening services
 
-### key learning
+## Linux Hardnening
+
+Activities:
+- Updated Packages
+- User management
+- Permission changes
+- SSH hardnenig
+- Firewall setup
+
+Learning:
+Hardening reduces attack surface and improve security
 logs help analysts investigate authentication and systen behavior
 
