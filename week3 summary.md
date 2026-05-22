@@ -24,3 +24,15 @@ Logs help detect suspicious activity.
 ## Reflection
 
 Week 3 improved my understanding of system hardening and defensive cybersecurity practices.
+
+## Month 2 Week 3
+
+Topics covered:
+
+- Linux hardening
+- SSH
+- UFW firewall
+- User permissions
+- Authentication logs
+- Security+ Domain 1
+- Security+ Domain 2
