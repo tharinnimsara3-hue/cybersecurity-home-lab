@@ -71,5 +71,23 @@ Activities:
 
 Learning:
 Hardening reduces attack surface and improve security
+
+## Screenshots
+
+### Nmap Scan
+
+![Nmap](screenshots/nmap-scan.png)
+
+### SSH Login
+
+![SSH](screenshots/ssh-login.png)
+
+### Firewall Rules
+
+![Firewall](screenshots/firewall-rules.png)
+
+### Wireshark Capture
+
+![Wireshark](screenshots/wireshark-capture.png)
 logs help analysts investigate authentication and systen behavior
 
