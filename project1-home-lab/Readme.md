@@ -2,7 +2,7 @@
 
 ## Objective
 
-Build a virtual cybersecurity lab using Kali Linux, Ubuntu Server, and pfSense firewall to practice networking, system hardening, monitoring, and security analysis.
+Build a virtual cybersecurity lab using Kali Linux, Ubuntu Server, and pfSense firewall to practice networking, Linux administration, and system hardening.
 
 ---
 
@@ -18,12 +18,12 @@ Build a virtual cybersecurity lab using Kali Linux, Ubuntu Server, and pfSense f
 ## Skills Practiced
 
 - Nmap scanning
-- Wireshark packet capture
+- Wireshark packet analysis
+- SSH configuration
+- Firewall rules
 - Linux permissions
-- SSH remote access
-- Firewall configuration
-- Authentication log analysis
-- Linux hardening
+- Authentication log monitoring
+- Basic Linux hardening
 
 ---
 
@@ -32,9 +32,9 @@ Build a virtual cybersecurity lab using Kali Linux, Ubuntu Server, and pfSense f
 | Tool | Purpose |
 |------|---------|
 | Nmap | Network scanning |
-| Wireshark | Packet analysis |
-| pfSense | Firewall |
-| SSH | Remote administration |
+| Wireshark | Packet capture |
+| pfSense | Firewall/router |
+| SSH | Secure remote access |
 | UFW | Linux firewall |
 
 ---
@@ -42,18 +42,10 @@ Build a virtual cybersecurity lab using Kali Linux, Ubuntu Server, and pfSense f
 ## Activities Performed
 
 - Installed pfSense
-- Configured virtual lab network
-- Practiced subnetting
+- Configured Ubuntu Server
+- Configured SSH
 - Performed Nmap scans
 - Captured packets using Wireshark
-- Configured SSH
-- Enabled firewall rules
-- Monitored authentication logs
+- Enabled UFW firewall
+- Monitored auth logs
 - Practiced Linux hardening
-
----
-
-## Key Learning
-
-This project improved my understanding of networking, Linux administration, firewall configuration, monitoring, and defensive cybersecurity concepts.
-
