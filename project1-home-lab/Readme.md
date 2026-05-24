@@ -49,3 +49,7 @@ Build a virtual cybersecurity lab using Kali Linux, Ubuntu Server, and pfSense f
 - Enabled UFW firewall
 - Monitored auth logs
 - Practiced Linux hardening
+
+## Reflection
+
+This project improved my understanding of networking, Linux administration, packet analysis, firewall configuration, and defensive cybersecurity practices.
