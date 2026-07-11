@@ -24,3 +24,16 @@ Low
 ## What I Learned
 
 Incident triage helps SOC analysts prioritize security incidents and respond efficiently.
+## False Positive
+
+A false positive is an alert that appears suspicious but is actually normal activity.
+
+Example:
+A user enters the wrong password once by mistake.
+
+## True Positive
+
+A true positive is a real security incident that requires investigation.
+
+Example:
+An attacker attempts hundreds of failed logins in a short period.
